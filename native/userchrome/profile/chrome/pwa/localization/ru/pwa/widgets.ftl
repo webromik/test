@@ -2,7 +2,7 @@
 ## Example: https://pontoon.mozilla.org/sl/firefox/browser/browser/browser.ftl/?search=toolbar-button
 ## Example: https://pontoon.mozilla.org/sl/firefox/browser/browser/browser.ftl/?search=navbar
 
-toolbar-button-mute = 
+toolbar-button-mute = Test
     .label = Переключение звука
     .tooltiptext = Переключение звука страницы ({ $shortcut })
 toolbar-button-reader-view = 
