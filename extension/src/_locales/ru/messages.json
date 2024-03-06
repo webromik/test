@@ -1,0 +1,22 @@
+{
+  "appName": {
+    "message": "Прогрессивные веб-приложения для Firefox",
+    "description": "The name of the application, should not be translated"
+  },
+  "appShortName": {
+    "message": "PWAsForFirefox",
+    "description": "The short name of the application, should not be translated"
+  },
+  "appDescription": {
+    "message": "Инструмент для установки, управления и использования прогрессивных веб-приложений (PWA) в Mozilla Firefox",
+    "description": "The description of the application"
+  },
+  "actionInstallSite": {
+    "message": "Установите этот сайт",
+    "description": "Instruct users that they can install the current site here"
+  },
+  "actionLaunchSite": {
+    "message": "Запустите этот сайт",
+    "description": "Instruct users that they can launch the current site here"
+  }
+}
