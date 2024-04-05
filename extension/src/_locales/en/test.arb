@@ -1,7 +1,7 @@
 {
-  "@@locale": "en",
-  "appTitle": "LumXpert, LED Lighting",
-  "loginScreenTitle": "Login",
+  "@@locale": "en-REV",
+  "appTitle": "LumXpert, LED Lighting..",
+  "loginScreenTitle": "Log in",
   "@loginScreenTitle": {
     "description": "Text shown in the Login screen of the Constellation app"
   },
