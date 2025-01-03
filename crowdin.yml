@@ -8,3 +8,5 @@ commit_message: '[skip ci]'
 files:
   - source: /extension/src/_locales/en/test.arb
     translation: /extension/src/_locales/%two_letters_code%/test.arb
+  - source: 1.md
+    translation: /md/%locale%/%original_file_name%
