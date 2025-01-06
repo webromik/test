@@ -14,3 +14,6 @@ files:
   - source: /test2/sample.xcstrings
     translation: /test2/sample.xcstrings
     multilingual: 1
+  - source: /test2/test.csv
+    translation: /test2/test.csv
+    scheme: "identifier,source_phrase,context,uk,ru,fr"
