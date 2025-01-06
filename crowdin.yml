@@ -11,5 +11,5 @@ files:
     multilingual: 1
   - source: /test2/test.csv
     translation: /test2/test.csv
-    multilingual_spreadsheet: 1
     scheme: 'identifier,source_phrase,context,fr,pl,ru,uk'
+    multilingual: 1
