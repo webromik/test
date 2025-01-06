@@ -5,52 +5,34 @@
       "comment" : "Just a morning wish",
       "extractionState" : "manual",
       "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Good Morning"
-          }
-        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Good Morning"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Good Morning"
-          }
-        },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Good Morning"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Good Morning"
+            "state" : "translated",
+            "value" : "Bonjour"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Good Morning"
+            "state" : "translated",
+            "value" : "Dzień dobry"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Доброе утро"
           }
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Good Morning"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Good Morning"
+            "state" : "translated",
+            "value" : "Доброго ранку."
           }
         }
       }
@@ -58,52 +40,34 @@
     "Good Afternoon" : {
       "extractionState" : "manual",
       "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Good Afternoon"
-          }
-        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Good Afternoon"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Good Afternoon"
-          }
-        },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Good Afternoon"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Good Afternoon"
+            "state" : "translated",
+            "value" : "Bonjour"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Good Afternoon"
+            "state" : "translated",
+            "value" : "Dzień dobry"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Добрый день"
           }
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Good Afternoon"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Good Afternoon"
+            "state" : "translated",
+            "value" : "Доброго дня"
           }
         }
       }
