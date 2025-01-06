@@ -1,0 +1,20 @@
+project_id_env: CROWDIN_PROJECT_ID
+api_token_env: CROWDIN_PERSONAL_TOKEN
+preserve_hierarchy: 1
+pull_request_title: Translation updates from Crowdin
+pull_request_labels:
+  - crowdin
+commit_message: '[skip ci]'
+files:
+  - source: /extension/src/_locales/en/test.arb
+    translation: /extension/src/_locales/%two_letters_code%/test.arb
+  - source: 1.md
+    translation: /md/%locale%/%original_file_name%
+    type: md35
+  - source: /test2/sample.xcstrings
+    translation: /test2/sample.xcstrings
+    multilingual: 1
+  - source: /test2/test.csv
+    translation: /test2/test.csv
+    multilingual_spreadsheet: 1
+    scheme: 'identifier,source_phrase,context,fr,pl,ru,uk'
