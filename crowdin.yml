@@ -6,11 +6,6 @@ pull_request_labels:
   - crowdin
 commit_message: '[skip ci]'
 files:
-  - source: /extension/src/_locales/en/test.arb
-    translation: /extension/src/_locales/%two_letters_code%/test.arb
-  - source: 1.md
-    translation: /md/%locale%/%original_file_name%
-    type: md35
   - source: /test2/sample.xcstrings
     translation: /test2/sample.xcstrings
     multilingual: 1
