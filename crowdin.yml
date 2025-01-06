@@ -11,3 +11,6 @@ files:
   - source: 1.md
     translation: /md/%locale%/%original_file_name%
     type: md35
+  - source: test2/sample.xcstrings
+    translation: test2/sample.xcstrings
+    multilingual: 1
