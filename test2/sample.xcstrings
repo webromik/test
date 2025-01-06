@@ -11,22 +11,28 @@
             "value" : "Good Morning"
           }
         },
-        "en-UK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Good Morning"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bonjour"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dzień dobry"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Доброе утро"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Доброго ранку"
+            "value" : "Доброго ранку."
           }
         }
       }
@@ -40,22 +46,28 @@
             "value" : "Good Afternoon"
           }
         },
-        "en-UK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Good Afternoon"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bonjour"
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dzień dobry"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Добрый день"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добрий день"
+            "value" : "Доброго дня"
           }
         }
       }
