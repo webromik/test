@@ -17,4 +17,4 @@ files:
   - source: /test2/test.csv
     translation: /test2/test.csv
     multilingual: 1
-    scheme: 'identifier,source_phrase,context,fr,pl,uk'
+    scheme: 'identifier,source_phrase,context,fr,pl,ru,uk'
