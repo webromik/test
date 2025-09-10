@@ -1,0 +1,319 @@
+{
+  "@@locale": "pl",
+  "appTitle": "LumXpert, LED Lighting",
+  "loginScreenTitle": "Login",
+  "@loginScreenTitle": {
+    "description": "Text shown in the Login screen of the Constellation app"
+  },
+  "homeScreenTitle": "Home",
+  "@homeScreenTitle": {
+    "description": "Text shown in the Home screen of the Constellation app"
+  },
+  "projectCreationScreenTitle": "Create Project",
+  "@projectCreationScreenTitle": {
+    "description": "Text shown in the Create Project screen of the Constellation app"
+  },
+  "welcomeToYourProjectSpace": "Welcome to your project space",
+  "welcome": "Hi",
+  "@welcome": {
+    "description": "Text shown in the header of project listing screen"
+  },
+  "createNewProject": "Create a new project",
+  "@createNewProject": {
+    "description": "Text shown on the button to create a project"
+  },
+  "inboxTitle": "Inbox",
+  "@inboxTitle": {
+    "description": "Text shown in the header of the inbox screen"
+  },
+  "applicationTitle": "Applications",
+  "@applicationTitle": {
+    "description": "Application - Title"
+  },
+  "applicationHeader": "Which application are you interested in?",
+  "@applicationHeader": {
+    "description": "Application - Header"
+  },
+  "documentPreparationContent": "We're preparing your document to share, one sec!",
+  "@documentPreparationContent": {
+    "description": "Share Document - Message"
+  },
+  "bulletedSymbolText": "•",
+  "@bulletedSymbolText": {
+    "description": "Bullet Symbol - •"
+  },
+  "showMoreText": "Show me more",
+  "@showMoreText": {
+    "description": "Show me More - Text"
+  },
+  "showLessText": "Show me less",
+  "@showLessText": {
+    "description": "Show me less - Text"
+  },
+  "noProjectsTitle": "You don't have any projects",
+  "home": "Home",
+  "projects": "Projects",
+  "@projects": {
+    "description": "title used for the -projects- card in the quick access menu"
+  },
+  "profile": "Profile",
+  "notifications": "Notifications",
+  "inbox": "Inbox",
+  "logout": "Log out",
+  "orders": "Orders",
+  "@orders": {
+    "description": "Title of the orders overview page"
+  },
+  "somethingWentWrong": "Oops! Something went wrong…",
+  "next": "Next",
+  "lightType": "Light type",
+  "quote": "quote #",
+  "products": "Products",
+  "@products": {
+    "description": "Generic text specifying products, starting with a capital letter"
+  },
+  "support": "Support",
+  "profession": "Profession",
+  "welcomeTo": "Welcome to",
+  "welcomeToLumxpert": "Welcome to LumXpert",
+  "stillNotSure": "Still not sure what to select?",
+  "contactSupport": "Contact support",
+  "whatTypeOfProject": "Let's get started! What type of project do you want to create?",
+  "onboardingScreenTitle": "Let's get to know each other better!",
+  "pleaseWait": "Please wait...",
+  "all": "All",
+  "search": "Search",
+  "quickAccessMostImportant": "What would you like to light up today",
+  "newProject": "New project",
+  "@newProject": {
+    "description": "title used for the -new project- card in the quick access menu"
+  },
+  "performance": "Performance",
+  "@performance": {
+    "description": "value for performance key in the family list screen"
+  },
+  "value": "Value",
+  "@value": {
+    "description": "value for performance key in the family list screen"
+  },
+  "specification": "Specification",
+  "@specification": {
+    "description": "value for performance key in the family list screen"
+  },
+  "essential": "Essential",
+  "@essential": {
+    "description": "value for performance key in the family list screen"
+  },
+  "productCode": "Product code",
+  "recommendedRetailPrice": "Recommended Retail Price",
+  "application": "Application",
+  "applications": "Applications",
+  "@applications": {
+    "description": "title used for the -applications- card in the quick access menu"
+  },
+  "openSpace": "Open Space",
+  "roomParameters": "Room parameters",
+  "lightPlan": "Light plan",
+  "drawingTool": "Drawing tool",
+  "signIn": "Sign in",
+  "signUp": "Create an account",
+  "explore": "Explore",
+  "plan": "Plan",
+  "buy": "Buy",
+  "selectYourCountry": "Select your country",
+  "wellDoneProjectSaved": "Nice one! Your project is saved! Now's the perfect time to check out our product recommendations.",
+  "areaList": "Area list",
+  "@areaList": {
+    "description": "To show area list label in project space-area list"
+  },
+  "productList": "Product list",
+  "addProductsToBasket": "Add products to basket",
+  "renameProject": "Rename project",
+  "deleteProject": "Delete project",
+  "languageSpanish": "Spanish",
+  "languageEnglish": "English",
+  "languageGerman": "German",
+  "@languageGerman": {
+    "description": "Language name german"
+  },
+  "renameArea": "Rename room",
+  "@renameArea": {
+    "description": "To show label in popup menu Room Details Card"
+  },
+  "changeLightType": "Change light type",
+  "removeArea": "Remove area",
+  "@removeArea": {
+    "description": "To show placeholder to remove a area"
+  },
+  "showRecommendedLights": "Select {category} and calculate light plan",
+  "@showRecommendedLights": {
+    "description": "Displays text on the Room Cards CTA in the Project Space",
+    "placeholders": {
+      "category": {
+        "type": "String",
+        "example": "lights"
+      }
+    }
+  },
+  "youDontHaveAnyProductsYet": "Looks like you don't have any products yet!",
+  "yourProfile": "Your profile",
+  "@yourProfile": {
+    "description": "your profile - title"
+  },
+  "productDetailScreen": "Product Detail Screen",
+  "luminaires": "Luminaires",
+  "basketScreenTitle": "Basket",
+  "basketEmptyMessage": "Your basket is currently empty",
+  "basketEmptyBody": "Once you've added products or projects to your basket, you'll be able to easily select them here to create an order.",
+  "basketMessage": "Select the products you need",
+  "basketBody": "Select the products you want to buy from the bill of materials that you created and receive an immediate price from your preferred wholesalers.",
+  "noProductsSelected": "No products selected",
+  "getQuotations": "Get quotations",
+  "browseOurProducts": "Browse our products",
+  "learnMore": "Learn more",
+  "dataSheet": "Data sheet",
+  "@dataSheet": {
+    "description": "Title in the Data sheet."
+  },
+  "installationInstruction": "Installation instruction",
+  "@installationInstruction": {
+    "description": "Title in the instruction sheet."
+  },
+  "instructions": "Instructions",
+  "configurationsAvailable": "<b>{count}</b> {count,plural, =1{configuration available} other{configurations available}}",
+  "@configurationsAvailable": {
+    "description": "Number of configurations available for a product",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "description": "The number of configurations available for a product"
+      }
+    }
+  },
+  "lightOutput": "Light output",
+  "wattage": "Wattage",
+  "created": "created",
+  "save": "Save",
+  "projectNameMax20Characters": "Project name (maximum 20 characters)",
+  "enterProjectName": "Enter project name",
+  "projectNameExistsErrorMessage": "Oops! You can't assign the same name to two different projects.",
+  "projectNameChanged": "Project name changed",
+  "roomNameMax20Characters": "Room name (maximum 20 characters)",
+  "enterRoomName": "Enter room name",
+  "roomNameChanged": "Room name changed",
+  "areYouSureToRemoveRoom": "Are you sure you want to remove this area?",
+  "cannotBeUndone": "Just a heads up, this action can't be undone.",
+  "productsWillMoveToUnassigned": "Products and light calculations assigned to this area will be deleted as well.",
+  "remove": "Remove",
+  "roomRemoved": "Room removed",
+  "currentlySelectedProduct": "Your selection",
+  "advancedParameters": "Advanced parameters",
+  "followingParametersPrefilled": "The following parameters have been pre-filled following best lighting practices.",
+  "basicParameters": "Basic parameters",
+  "width": "Width",
+  "length": "Length",
+  "mountingHeight": "Mounting height",
+  "illuminance": "Illuminance",
+  "parametersFor": "Parameters for",
+  "maintenanceFactor": "Maintenance factor",
+  "reflectivenessCeiling": "Reflectiveness: ceiling",
+  "reflectivenessWall": "Reflectiveness: wall",
+  "reflectivenessFloor": "Reflectiveness: floor",
+  "m": "m",
+  "lx": "lx",
+  "oF": "of",
+  "aFewEasySteps": "A few easy steps",
+  "preDefinedParameters": "The advanced parameters are suggested based on the project type and application area. All you have to do is to set your area parameters.",
+  "calculateLightPlan": "Calculate light plan",
+  "cancel": "Cancel",
+  "addToRoom": "Add to room",
+  "selectCount": "Select the quantities you need",
+  "or": "or",
+  "needHelpForCount": "Need a hand deciding how many products you need?",
+  "heightFloorWhereTaskAreMade": "Height from the floor where tasks are made",
+  "lightLevelTargetWorkingPlane": "Light level target at the working plane",
+  "mustBe2And100": "Must be between 2-100m",
+  "mustBe1And30": "Must be between 1-30m",
+  "mustBe0AndMountingHeight": "Must be between 0 and mounting height",
+  "mustBe1And2000": "Must be between 1-2000 lux",
+  "lightTypeFor": "Light type for",
+  "changed": "changed",
+  "allInStock": "All in stock",
+  "@allInStock": {
+    "description": "Stock status of quote with all products in stock."
+  },
+  "inStock": "In stock",
+  "@inStock": {
+    "description": "Stock status of in stock product."
+  },
+  "limitedStock": "Limited stock",
+  "@limitedStock": {
+    "description": "Stock status of a limited stock product"
+  },
+  "partlyInStock": "Partly in stock",
+  "@partlyInStock": {
+    "description": "Stock status of a quote with some products available only."
+  },
+  "outOfStock": "Out of stock",
+  "@outOfStock": {
+    "description": "Stock status of an out of stock product"
+  },
+  "discontinued": "Discontinued",
+  "@discontinued": {
+    "description": "Stock status of a discontinued product"
+  },
+  "selectAllUnassigned": "Select all unassigned products",
+  "selectAllProducts": "Select all products",
+  "unassigned": "Unassigned",
+  "quantity": "Quantity",
+  "isOutOfStock": "is out of stock",
+  "andWillNotBecomeAvailableAgain": "and will not become available again",
+  "andBeenRemovedFromSelection": "and has been removed from your selection",
+  "removedFromSelection": "All gone! We've removed these from your selection.",
+  "willAffectDeliveryDate": "Just a heads up, this will affect the delivery date.",
+  "willNotBecomeAvailable": "Just a heads up, these will not become available again.",
+  "productsOutOfStockConcerns": "Unfortunately the following products are out of stock:",
+  "checkOurProducts": "Check our products",
+  "toFindASuitableAlternative": "to find a suitable alternative.",
+  "toFindSuitableAlternatives": "to find suitable alternatives.",
+  "toFindSuitableReplacements": "to find suitable replacements.",
+  "goToProjectToChangeQuantity": "Go to project to update or select different products",
+  "calculateLightPlanLoading": "One sec! Your light plan calculation is loading…",
+  "weAreCalculatingYourLightPlan": "Hang tight…we're almost done calculating your light plan.",
+  "needHelp": "Need help?",
+  "finaliseCalculation": "End calculation",
+  "lux": "lux",
+  "standard": "Standard",
+  "medium": "Medium",
+  "dark": "Dark",
+  "glass": "Glass",
+  "white": "White",
+  "mustBe05And1": "Must be between 0.5 & 1",
+  "whichProductToCalculateLightPlan": "Tell us…which product would you like to calculate your light plan for?",
+  "lightPlanCalculationCanOnlyBeDoneForOneProduct": "Light plans can only be calculated for one product at a time.",
+  "product": "Product",
+  "selectProduct": "Select Product",
+  "gatheringQuotes": "Gathering quotes from your preferred wholesalers",
+  "whereToBuy": "Where to buy",
+  "tipsAndTricks": "Tips & Tricks",
+  "yesterday": "Yesterday",
+  "editQuantities": "Edit quantities",
+  "removeProduct": "Remove product",
+  "areYouSureToRemoveProduct": "Just checking…are you sure you want to remove this product from this area? This action can't be undone.",
+  "update": "Update",
+  "delete": "Delete",
+  "noInboxMessagesHeading": "Looks as though you haven’t received any messages yet! Stay tuned!",
+  "noInboxMessagesBody": "Here you will find all the important messages.\n\nDon't forget to check regularly for order updates, news and system notifications!",
+  "tenTipsOnHowToInstallLuminaires": "10 tips on how to install Luminaires",
+  "viewAllArticles": "View all articles",
+  "lightPlanCalculationUnavailable": "Unfortunately light calculation is not available for the products you've selected.",
+  "lightPlanCalculationUnavailableForSomeOfTheProducts": "Unfortunately light calculation is not available for some of the products you've selected.",
+  "ongoing": "Ongoing",
+  "completed": "Completed",
+  "goToCheckout": "Go to checkout",
+  "reviewQuotesAvailableToYou": "Take a look at the quotes available to you:",
+  "seeProducts": "See products",
+  "@seeProducts": {
+    "description": "Hyperlink shown in Where to buy and Checkout Delivery. When tapped, it opens a modal with the products in the quote/cart."
+  }
+}
