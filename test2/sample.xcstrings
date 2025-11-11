@@ -19,8 +19,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Good Morning"
+            "state" : "translated",
+            "value" : "Доброго ранку."
           }
         }
       }
@@ -42,8 +42,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Good Afternoon"
+            "state" : "translated",
+            "value" : "Доброго дня"
           }
         }
       }
